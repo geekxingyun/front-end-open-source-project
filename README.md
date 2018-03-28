@@ -7,4 +7,4 @@
    
 2. Jquery 国际化JS工具
 
-https://github.com/darksmo/jquery-localization-tool
+   https://github.com/darksmo/jquery-localization-tool
