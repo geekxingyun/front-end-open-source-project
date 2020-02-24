@@ -27,15 +27,17 @@
 
 4. React(Web)/React Native(Mobile)
 
-5. Node.js
+5. Amis
 
-6. TypeScript
+6. Node.js
 
-7. Angular JS
+7. TypeScript
 
-8. Vue.js
+8. Angular JS
 
-9. Flutter
+9. Vue.js
+
+10. Flutter
 
 ---
 
