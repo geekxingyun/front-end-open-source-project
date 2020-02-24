@@ -7,9 +7,11 @@
 
 2. HTML5
 
-3. Jquery/Bootstrap/
+3. Jquery
 
 4. UI Framework
+
+[Bootstrap](https://www.bootcss.com/)
 
 [LayUi](https://www.layui.com/)
 
