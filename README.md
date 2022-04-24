@@ -25,6 +25,8 @@
 
 [Admui](http://www.admui.com/)
 
+[vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)
+
 4. React(Web)/React Native(Mobile)
 
 5. Amis
